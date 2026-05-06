@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36915.13 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "palindrome", "palindrome.csproj", "{F069AD6F-257B-4074-BD08-A3F824AC43D6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fibonacci", "..\fibonacci\fibonacci.csproj", "{FA985689-CCDE-40CE-BC74-16784910F918}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F069AD6F-257B-4074-BD08-A3F824AC43D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F069AD6F-257B-4074-BD08-A3F824AC43D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F069AD6F-257B-4074-BD08-A3F824AC43D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F069AD6F-257B-4074-BD08-A3F824AC43D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA985689-CCDE-40CE-BC74-16784910F918}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA985689-CCDE-40CE-BC74-16784910F918}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA985689-CCDE-40CE-BC74-16784910F918}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA985689-CCDE-40CE-BC74-16784910F918}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C7C3D2A0-A4A8-47AF-81F5-929B1183FFED}
+	EndGlobalSection
+EndGlobal
