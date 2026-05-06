@@ -1,12 +1,12 @@
-# Verificador de Palíndromos
+# Verificador de PalÃ­ndromos
 
-Um aplicativo de console em C# que verifica se uma palavra, frase ou número é um palíndromo.
+Um aplicativo de console em C# que verifica se uma palavra, frase ou nÃºmero Ã© um palÃ­ndromo.
 
-## O que é um Palíndromo?
+## O que Ã© um PalÃ­ndromo?
 
-Um palíndromo é uma palavra, frase ou sequência que pode ser lida da mesma forma de trás para frente, ignorando espaços, pontuação e diferenças entre maiúsculas e minúsculas.
+Um palÃ­ndromo Ã© uma palavra, frase ou sequÃªncia que pode ser lida da mesma forma de trÃ¡s para frente, ignorando espaÃ§os, pontuaÃ§Ã£o e diferenÃ§as entre maiÃºsculas e minÃºsculas.
 
-### Exemplos de Palíndromos:
+### Exemplos de PalÃ­ndromos:
 - "Arara"
 - "Ovo"
 - ""Roma me tem amor"
@@ -14,11 +14,11 @@ Um palíndromo é uma palavra, frase ou sequência que pode ser lida da mesma forma
 
 ## Funcionalidades
 
-- ? Verifica se uma palavra, frase ou número é um palíndromo
-- ? Ignora espaços e pontuação
-- ? Não diferencia maiúsculas de minúsculas
-- ? Interface interativa de linha de comando
-- ? Validação de entrada vazia
+- Verifica se uma palavra, frase ou nÃºmero Ã© um palÃ­ndromo
+- Ignora espaÃ§os e pontuaÃ§Ã£o
+- NÃ£o diferencia maiÃºsculas de minÃºsculas
+- Interface interativa de linha de comando
+- ValidaÃ§Ã£o de entrada vazia
 
 ## Requisitos
 
@@ -26,13 +26,13 @@ Um palíndromo é uma palavra, frase ou sequência que pode ser lida da mesma forma
 
 ## Como Executar
 
-1. Clone o repositório ou navegue até o diretório do projeto
+1. Clone o repositÃ³rio ou navegue atÃ© o diretÃ³rio do projeto
 
-2. Execute a aplicação
+2. Execute a aplicaÃ§Ã£o
 
 ## Como Usar
 
-1. Após executar a aplicação, digite uma palavra, frase ou número
-2. O programa informará se é ou não um palíndromo
+1. ApÃ³s executar a aplicaÃ§Ã£o, digite uma palavra, frase ou nÃºmero
+2. O programa informarÃ¡ se Ã© ou nÃ£o um palÃ­ndromo
 3. Digite outra frase para continuar testando
 4. Digite `sair` para encerrar o programa
