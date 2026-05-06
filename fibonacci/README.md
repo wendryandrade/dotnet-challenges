@@ -1,25 +1,25 @@
-# Sequência de Fibonacci
+# SequÃªncia de Fibonacci
 
-Um aplicativo de console em C# que gera e exibe a sequência de Fibonacci com a quantidade de elementos especificada pelo usuário.
+Um aplicativo de console em C# que gera e exibe a sequÃªncia de Fibonacci com a quantidade de elementos especificada pelo usuÃ¡rio.
 
-## O que é a Sequência de Fibonacci?
+## O que Ã© a SequÃªncia de Fibonacci?
 
-A sequência de Fibonacci é uma série de números onde cada número é a soma dos dois números anteriores. A sequência começa com 0 e 1.
+A sequÃªncia de Fibonacci Ã© uma sÃ©rie de nÃºmeros onde cada nÃºmero Ã© a soma dos dois nÃºmeros anteriores. A sequÃªncia comeÃ§a com 0 e 1.
 
-### Exemplo da Sequência:
+### Exemplo da SequÃªncia:
 ```
 0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144...
 ```
 
-**Fórmula:** F(n) = F(n-1) + F(n-2), onde F(0) = 0 e F(1) = 1
+**FÃ³rmula:** F(n) = F(n-1) + F(n-2), onde F(0) = 0 e F(1) = 1
 
 ## Funcionalidades
 
-- ? Gera a sequência de Fibonacci com N elementos
-- ? Validação de entrada (apenas números positivos)
-- ? Interface interativa de linha de comando
-- ? Exibição formatada da sequência
-- ? Loop contínuo para múltiplas consultas
+- Gera a sequÃªncia de Fibonacci com N elementos
+- ValidaÃ§Ã£o de entrada (apenas nÃºmeros positivos)
+- Interface interativa de linha de comando
+- ExibiÃ§Ã£o formatada da sequÃªncia
+- Loop contÃ­nuo para mÃºltiplas consultas
 
 ## Requisitos
 
@@ -27,13 +27,13 @@ A sequência de Fibonacci é uma série de números onde cada número é a soma dos do
 
 ## Como Executar
 
-1. Clone o repositório ou navegue até o diretório do projeto
+1. Clone o repositÃ³rio ou navegue atÃ© o diretÃ³rio do projeto
 
-2. Execute a aplicação
+2. Execute a aplicaÃ§Ã£o
 
 ## Como Usar
 
-1. Após executar a aplicação, digite a quantidade de elementos desejada
-2. O programa exibirá a sequência de Fibonacci com a quantidade especificada
-3. Digite outro número para gerar uma nova sequência
+1. ApÃ³s executar a aplicaÃ§Ã£o, digite a quantidade de elementos desejada
+2. O programa exibirÃ¡ a sequÃªncia de Fibonacci com a quantidade especificada
+3. Digite outro nÃºmero para gerar uma nova sequÃªncia
 4. Digite `sair` para encerrar o programa
