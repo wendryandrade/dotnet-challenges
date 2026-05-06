@@ -1,26 +1,26 @@
 # Normalizador de Texto
 
-Um aplicativo de console em C# que normaliza pontuações duplicadas em textos, reduzindo múltiplas exclamações e interrogações consecutivas.
+Um aplicativo de console em C# que normaliza pontuaÃ§Ãµes duplicadas em textos, reduzindo mÃºltiplas exclamaÃ§Ãµes e interrogaÃ§Ãµes consecutivas.
 
-## O que é a Normalização de Pontuações?
+## O que Ã© a NormalizaÃ§Ã£o de PontuaÃ§Ãµes?
 
-A normalização de pontuações é o processo de reduzir múltiplas pontuações consecutivas (`!` e `?`) a uma forma simplificada e padronizada, mantendo a intenção original do texto.
+A normalizaÃ§Ã£o de pontuaÃ§Ãµes Ã© o processo de reduzir mÃºltiplas pontuaÃ§Ãµes consecutivas (`!` e `?`) a uma forma simplificada e padronizada, mantendo a intenÃ§Ã£o original do texto.
 
-### Exemplos de Normalização:
-- "Olá!!!" ? "Olá!"
+### Exemplos de NormalizaÃ§Ã£o:
+- "OlÃ¡!!!" ? "OlÃ¡!"
 - "Como vai???" ? "Como vai?"
 - "Que legal!?!?!?" ? "Que legal!?"
-- "Incrível!!!???" ? "Incrível!?"
+- "IncrÃ­vel!!!???" ? "IncrÃ­vel!?"
 - "Nossa???!!!" ? "Nossa?!"
 
 ## Funcionalidades
 
-- ? Remove pontuações duplicadas consecutivas (`!` e `?`)
-- ? Combina múltiplas pontuações em uma forma normalizada
-- ? Preserva a ordem da primeira pontuação encontrada (ex: `!?!?` ? `!?`, `?!?!` ? `?!`)
-- ? Quando há apenas um tipo de pontuação, retorna apenas um caractere
-- ? Valida entrada do usuário (não aceita texto vazio ou apenas espaços)
-- ? Interface interativa de linha de comando
+- Remove pontuaÃ§Ãµes duplicadas consecutivas (`!` e `?`)
+- Combina mÃºltiplas pontuaÃ§Ãµes em uma forma normalizada
+- Preserva a ordem da primeira pontuaÃ§Ã£o encontrada (ex: `!?!?` ? `!?`, `?!?!` ? `?!`)
+- Quando hÃ¡ apenas um tipo de pontuaÃ§Ã£o, retorna apenas um caractere
+- Valida entrada do usuÃ¡rio (nÃ£o aceita texto vazio ou apenas espaÃ§os)
+- Interface interativa de linha de comando
 
 ## Requisitos
 
@@ -28,16 +28,16 @@ A normalização de pontuações é o processo de reduzir múltiplas pontuações consec
 
 ## Como Executar
 
-1. Clone o repositório ou navegue até o diretório do projeto
+1. Clone o repositÃ³rio ou navegue atÃ© o diretÃ³rio do projeto
 
-2. Execute a aplicação:
+2. Execute a aplicaÃ§Ã£o:
 ```bash
 dotnet run
 ```
 
 ## Como Usar
 
-1. Após executar a aplicação, digite um texto com pontuações
-2. O programa exibirá o texto normalizado
+1. ApÃ³s executar a aplicaÃ§Ã£o, digite um texto com pontuaÃ§Ãµes
+2. O programa exibirÃ¡ o texto normalizado
 3. Digite outro texto para continuar testando
 4. Digite `sair` para encerrar o programa
